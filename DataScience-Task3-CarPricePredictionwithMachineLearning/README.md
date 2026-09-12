@@ -10,7 +10,7 @@ The project follows an end-to-end machine learning workflow including data clean
 
 ## Dataset
 
-**Dataset:** Car Details v3 (Vehicle Dataset from Cardekho)
+**Dataset:** Car Details v3 (Vehicle Dataset from Cardekho), https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 
 The dataset contains used car information including:
 
