@@ -13,7 +13,7 @@ The projects cover practical applications of data analysis, exploratory data ana
 | **Task 1** | Iris Flower Classification | Classification & Machine Learning |
 | **Task 2** | Unemployment Analysis | Data Analysis & EDA |
 | **Task 3** | Car Price Prediction with Machine Learning | Regression & Machine Learning |
-| **Task 4** | Email Spam Detection | NLP & Classification |
+| **Task 4** | Email Spam Detection | NLP, Classification & Machine Learning |
 | **Task 5** | Sales Prediction Using Python | Regression & Model Evaluation |
 
 ## Technologies
