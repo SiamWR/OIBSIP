@@ -4,7 +4,7 @@
 This repository contains my **Data Science Internship projects** completed as part of the **Oasis Infobyte Internship Program (OIBSIP)**.
 The projects cover practical applications of data analysis, exploratory data analysis, machine learning, regression, and classification using Python and commonly used data science libraries.
 
-**- Each task includes its own README with project-specific details and results**
+** - Each task includes its own README with project-specific details and results**
 
 ## Projects
 
