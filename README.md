@@ -30,31 +30,31 @@ The projects cover practical applications of data analysis, exploratory data ana
 ## Repository Structure
 
 ```text
-OIBSIP/
+OIBSIP
 │
-├── DataScience-Task1-IrisFlowerClassification/
+├── DataScience-Task1-IrisFlowerClassification
 │   ├── Iris_Flower_Classification.ipynb
 │   ├── README.md
-│   └── outputs/
+│   └── outputs
 │
-├── DataScience-Task2-UnemploymentAnalysis/
+├── DataScience-Task2-UnemploymentAnalysis
 │   ├── Unemployment_Analysis.ipynb
 │   ├── README.md
-│   └── outputs/
+│   └── outputs
 │
-├── DataScience-Task3-CarPricePredictionwithMachineLearning/
+├── DataScience-Task3-CarPricePredictionwithMachineLearning
 │   ├── Car_Price_Prediction.ipynb
 │   ├── README.md
-│   └── outputs/
+│   └── outputs
 │
-├── DataScience-Task4-EmailSpamDetection/
+├── DataScience-Task4-EmailSpamDetectionwithMachineLearning
 │   ├── Email_Spam_Detection.ipynb
 │   ├── README.md
-│   └── outputs/
+│   └── outputs
 │
-├── DataScience-Task5-SalesPrediction/
+├── DataScience-Task5-SalesPrediction
 │   ├── Sales_Prediction.ipynb
 │   ├── README.md
-│   └── outputs/
+│   └── outputs
 │
 └── README.md
